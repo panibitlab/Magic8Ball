@@ -1,7 +1,6 @@
 # 🎱 Magic 8 Ball
 
 <p align="center">
-  Ask a question, shake the device, and let fate decide. ✨
   A tiny Arduino-powered Magic 8 Ball that answers your questions when you shake it.
 </p>
 
