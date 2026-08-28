@@ -1,6 +1,10 @@
 # 🎱 Magic 8 Ball
 
 <p align="center">
+  <img src="demo/header.png" width="100%">
+</p>
+
+<p align="center">
   A tiny Arduino-powered Magic 8 Ball that answers your questions when you shake it.
 </p>
 
@@ -90,7 +94,7 @@ This makes the device respond to an actual shaking motion rather than a single c
 ## 📼 Demo
 
 <p align="center">
-  <img src="demo.gif" width="50%">
+  <img src="demo/demo.gif" width="75%">
 </p>
 
 ## ✨ Credits
